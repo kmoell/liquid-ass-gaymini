@@ -1,0 +1,6 @@
+{
+  "name": "GlassLab",
+  "description": "Интерактивная лаборатория и тестовый полигон эффектов жидкого стекла на базе AndroidLiquidGlass: переключатели, слайдеры, кнопки, линзы и настройка шейдеров.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
